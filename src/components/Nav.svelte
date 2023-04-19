@@ -5,13 +5,13 @@
         <li><a href="/">Inicio</a></li>
 
      
-            <!-- <li><a href="profile">Perfil</a></li> -->
+            <li><a href="profile">Perfil</a></li> 
             <li><a href="about">Nosotros</a></li>
             <li><a href="collections">Librería Digital</a></li>
-            <!-- <li><a href="magazine">Revista</a></li>
+            <li><a href="magazine">Revista</a></li>
             <li><a href="contact">Contacto</a></li>
             <li><a href="login">Ingresar</a></li>
-            <li><a href="images">Imágenes</a></li> -->
+            <li><a href="images">Imágenes</a></li>
             <!--<li><a class:active="{$page.path === '/login'}" href="login">login</a></li>
             <li><a class:active="{$page.path === '/signup'}" href="signup">register</a></li> -->
         

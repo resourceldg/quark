@@ -7,5 +7,26 @@
 	],
 	"/collections": [
 		"src/routes/collections/+page.js"
+	],
+	"/contact": [
+		"src/routes/contact/+page.js"
+	],
+	"/images": [
+		"src/routes/images/+page.js"
+	],
+	"/librosNoraPin": [
+		"src/routes/librosNoraPin/+page.js"
+	],
+	"/librosanibal": [
+		"src/routes/librosanibal/+page.js"
+	],
+	"/librosviviana": [
+		"src/routes/librosviviana/+page.js"
+	],
+	"/magazine": [
+		"src/routes/magazine/+page.js"
+	],
+	"/profile": [
+		"src/routes/profile/+page.js"
 	]
 }
